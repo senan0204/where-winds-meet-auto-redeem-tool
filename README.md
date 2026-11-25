@@ -1,6 +1,6 @@
 # Where Winds Meet Auto Redeem Tool by Senan
 
-A Windows utility for redeeming batches of Where Winds Meet gift codes. Paste a list, test the first code, then run the batch. The tool enters and submits each code in the game and records the results in its Activity log.
+Paste your list of Where Winds Meet gift codes into this Windows app and start a batch. The app enters and submits each code, one at a time, in the game's **Settings → Other → Exchange Code** screen. The **Activity log** shows the results as the batch runs.
 
 ## Download
 
